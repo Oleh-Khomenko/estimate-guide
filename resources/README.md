@@ -6,6 +6,9 @@
 ## Assets
 * https://github.com/vbenjs/vite-plugin-imagemin
 
+## UI
+* https://swapy.tahazsh.com
+
 ## CSS
 ```css
 .multiline-ellipsis {
