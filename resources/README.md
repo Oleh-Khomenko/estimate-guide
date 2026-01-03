@@ -8,6 +8,7 @@
 
 ## UI
 * https://swapy.tahazsh.com
+* https://www.npmjs.com/package/canvas-confetti
 
 ## CSS
 ```css
